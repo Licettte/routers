@@ -11,7 +11,7 @@ export const ItemScroll = () => {
             <GreenDiv style={{background: "green"}}>4</GreenDiv>
             <RedDiv style={{background: "red"}}> 5</RedDiv>
             <BlueDiv style={{background: "blue"}}>6 </BlueDiv>
-            <span style={{fontSize: '25px'}}>Мы перешли на другую страниуцу, но остались внизу</span>
+            <span style={{fontSize: '25px'}}>Мы перешли на другую страницу, но остались внизу</span>
         </Flex>
     );
 };
